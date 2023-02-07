@@ -5,6 +5,6 @@ Linkedin : https://www.linkedin.com/in/siyeol-kim-441533264/
 ***
 # Projects
 ## 1. [Heart diease prediction model](https://github.com/yeol0129/heartdisease/blob/main/pf.md)
- in this project
+ In this project, I predicted patients with heart disease using data(from [kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?select=heart.csv)) from patients with heart disease.
 ## 2. [X-ray Images classification](https://github.com/yeol0129/xray_ResNet50_Pneumonia/blob/main/pf.md)
 ## 3. [Abnormal Behavior Classification](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/pf/pf.md)
