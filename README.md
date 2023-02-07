@@ -1,5 +1,5 @@
 # Machine Learning Portfolio
-![header](https://capsule-render.vercel.app/api?type=slice&color=99CCFF&height=200&section=header&text=Siyeol%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=99CCFF&height=200&section=header&text=Siyeol%20Kim&fontSize=90&fontColor=A0A0A0)
 Linkedin:
 ***
 ## Projects
