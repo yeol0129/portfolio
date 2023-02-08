@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=200&section=header&text=Siyeol%20Kim&fontSize=90)
 
 I am a Bachelor of Science in Electronic Engineering and would like to work in data science and machine learning.
-I became interested in machine learning through machine learning classes, and I studied more as a personal project.
+I became interested in machine learning through lectures, and I studied more as a personal project.
 
 
 Linkedin : https://www.linkedin.com/in/siyeol-kim-441533264/
