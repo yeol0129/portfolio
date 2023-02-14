@@ -1,8 +1,7 @@
 # Machine Learning Portfolio
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=200&section=header&text=Siyeol%20Kim&fontSize=90)
 
-I am a Bachelor of Science in Electronic Engineering and would like to work in data science and machine learning.
-A passionate machine learning engineer with a strong background. I improved my skills by adding personal projects to what I learned in college. I am very interested in solving problems with machine learning and also in getting new technology, knowledge and information.
+Motivated and passionate recent graduate with a strong interest in machine learning and its applications. Skilled in prediction, classification, computer vision, data building, and model training. Committed to continuously learning and expanding skills to solve complex problems using machine learning techniques.
 
 
 Linkedin : https://www.linkedin.com/in/siyeol-kim-441533264/
