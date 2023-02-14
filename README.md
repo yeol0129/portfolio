@@ -1,7 +1,7 @@
 # Machine Learning Portfolio
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=200&section=header&text=Siyeol%20Kim&fontSize=90)
 
-Motivated and passionate recent graduate with a strong interest in machine learning and its applications. Skilled in prediction, classification, computer vision, data building, and model training. Committed to continuously learning and expanding skills to solve complex problems using machine learning techniques.
+As a recent graduate of the Department of Electronic Engineering with a strong interest in machine learning, I am excited to begin my career in this field. I am a dedicated and enthusiastic learner who is passionate about acquiring new skills and knowledge in programming, data analysis, and machine learning. I am eager to contribute my technical skills and problem-solving abilities to a team of professionals and make a meaningful impact on the organization.
 
 
 Linkedin : https://www.linkedin.com/in/siyeol-kim-441533264/
